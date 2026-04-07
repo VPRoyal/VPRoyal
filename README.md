@@ -1,94 +1,139 @@
-### Hi there, I'm **Vinay Pratap Singh** 👋
+<div align="center">
 
-🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
-🎓 **B.Tech | MNIT Jaipur | 2019-2023**  
-💡 **Passionate about building scalable applications & AI-driven solutions**  
-🔥 **6⭐ Coder on HackerRank | Competitive Programmer**
+<!-- TYPING ANIMATED HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Vinay+%F0%9F%91%8B;Full-Stack+%C2%B7+Web3+%C2%B7+AI-Assisted+Engineering)](https://github.com/VPRoyal)
 
----
+<a href="https://linkedin.com/in/kunwarvp"><img src="https://img.shields.io/badge/LinkedIn-kunwarvp-0A66C2?style=flat-square&logo=linkedin"/></a>
+&nbsp;
+<a href="https://dev.to/kunwarvp"><img src="https://img.shields.io/badge/dev.to-kunwarvp-0A0A0A?style=flat-square&logo=devdotto"/></a>
+&nbsp;
+<a href="https://hashnode.com/@kunwarvp"><img src="https://img.shields.io/badge/Hashnode-kunwarvp-2962FF?style=flat-square&logo=hashnode"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/kunwarvp"><img src="https://img.shields.io/badge/HackerRank-6★-2EC866?style=flat-square&logo=hackerrank"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=VPRoyal&style=flat-square&color=58A6FF&label=profile+views"/>
 
-## 🔧 Tech Stack & Skills
-
-### 💻 **Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
-
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat&logo=postman&logoColor=white)
-![CRUD](https://img.shields.io/badge/-CRUD-FF5733?style=flat)
-
-### 📱 **Cross-Platform**
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### 🛢️ **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-### 🔥 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-basic-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat)
-
-### 🤖 **AI/ML & Web Scraping**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Scipy](https://img.shields.io/badge/-Scipy-8CAAE6?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### ⚡ **Competitive Programming & Other Skills**
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
-![GFG](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat)
-![System Design](https://img.shields.io/badge/-System%20Design-5A5A5A?style=flat)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat)
-![SSE](https://img.shields.io/badge/-Server%20Sent%20Events-8A2BE2?style=flat)
-![OOP](https://img.shields.io/badge/-OOP-008080?style=flat)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-FF4500?style=flat)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+```ts
+// vinay.ts
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VPRoyal&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VPRoyal&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPRoyal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunwarvp)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VPRoyal/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kunwarvp)
+const me = {
+  stack:    ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL"],
+  web3:     ["Ethers.js", "Wallet SDKs", "EVM", "Solidity (review)", "DeFi Protocols"],
+  workflow: ["Cursor AI", "ChatGPT", "V0.dev"],  // AI-assisted, not AI-dependent
+  looking:  "fullstack · web3 · remote-friendly roles",
+} as const;
+```
 
 ---
 
-⭐ **Feel free to explore my repositories and contribute! Let's build something awesome together.** 🚀
+## Problems I Work On
+
+Most developers list tools. I'd rather show you the problem domains.
+
+```
+ 🔐  Wallet Connectivity & Web3 Auth
+     ├── EIP-1193 provider abstraction (MetaMask, Coinbase, WalletConnect)
+     ├── Custodial wallet integration (DFNS MPC, multi-sig flows)
+     ├── Transaction signing pipelines & gas estimation
+     └── JWT session bridging between Web2 auth and on-chain identity
+
+ ⚙️  Access Control & Permissions Architecture
+     ├── ReBAC (relationship-based access control) with Permit.io
+     ├── Fine-grained RBAC policy enforcement at the API layer
+     ├── Role hierarchies, resource-scoped permissions, dynamic rules
+     └── Audit logging for compliance-sensitive permission changes
+
+ ⛓️  Blockchain Data Pipelines
+     ├── Multichain event indexing (EVM-compatible chains)
+     ├── Token lifecycle APIs — mint · transfer · burn · metadata
+     ├── On-chain/off-chain state reconciliation
+     └── Tokenization workflows (RWA, LP bonds, institutional assets)
+
+ ⚡  Real-Time & Event-Driven Systems
+     ├── Server-Sent Events (SSE) for live push without WebSocket overhead
+     ├── Redis pub/sub for distributed notification layers
+     ├── High-throughput data ingestion & async job queues
+     └── DOM virtualization + streaming UI patterns
+
+ 🏗️  Full-Stack Architecture
+     ├── MERN · Next.js App Router · REST + GraphQL API design
+     ├── Modular React hooks, composable service layers
+     ├── Multi-tenant SaaS patterns, feature flagging
+     └── Performance profiling, query optimization, payload compression
+```
+
+---
+
+## Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,solidity,python&theme=dark)](https://skillicons.dev)
+
+**Data & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch,docker,aws,git&theme=dark)](https://skillicons.dev)
+
+**UI & Tooling**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,materialui,figma&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Signal
+
+```
+★  6-Star HackerRank   →  Problem Solving · JavaScript · Python
+⛓  Mainnet deployments  →  EVM DeFi products shipped independently  
+🏛  NIT Jaipur, 2023    →  B.Tech · 1st-ever institutional Honor Certificate
+🤖  AI-native workflow  →  Cursor AI + ChatGPT in every sprint, not as hype
+```
+
+---
+
+## Currently Exploring
+
+- **ZK-rollup architecture** — understanding proof generation and verifier contracts
+- **Intent-based transaction flows** — ERC-4337 account abstraction patterns  
+- **Agent-driven development** — building dev tooling with LLM function-calling
+- Writing about backend patterns on [dev.to/kunwarvp](https://dev.to/kunwarvp) & [hashnode/@kunwarvp](https://hashnode.com/@kunwarvp)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VPRoyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPRoyal&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VPRoyal&theme=github-dark-blue&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VPRoyal&theme=github-compact&hide_border=true&area=true)](https://github.com/VPRoyal)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to global remote and onsite roles &nbsp;·&nbsp; Visa sponsorship welcome &nbsp;·&nbsp; [Let's talk](https://linkedin.com/in/kunwarvp)*
+
+</div>
